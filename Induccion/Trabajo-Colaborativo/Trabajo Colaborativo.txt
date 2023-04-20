@@ -1,0 +1,43 @@
+Juan, un estudiante universitario de desarrollo de software, estaba en el último 
+semestre de su carrera y se preparaba para su proyecto final. El proyecto 
+consistía en crear una aplicación web que permitiera a los usuarios reservar y 
+pagar por servicios de lavandería en línea.
+
+Para este proyecto, Juan formó un equipo de tres estudiantes más, cada uno con 
+habilidades y conocimientos únicos en diferentes áreas de la informática. 
+Decidieron utilizar la metodología de trabajo colaborativo Agile, que les permitía 
+trabajar de manera iterativa, con reuniones frecuentes para compartir su progreso 
+y hacer ajustes en función de las necesidades del proyecto.
+
+Juan se encargó de la programación, mientras que su compañero Pedro se enfocó 
+en el diseño y la experiencia del usuario. Laura, por su parte, se encargó de las 
+pruebas y el control de calidad, y finalmente, Esteban, se encargó de la 
+documentación y la presentación del proyecto.
+
+Durante el proceso de desarrollo, el equipo se reunió con frecuencia para revisar y 
+discutir el código de Juan, compartir los diseños y pruebas realizadas por Pedro y 
+Laura, y discutir los avances y problemas en la documentación y presentación de 
+Esteban.
+
+En una reunión de equipo, Pedro sugirió un cambio en el diseño de la página de 
+inicio para mejorar la usabilidad y experiencia del usuario. Después de discutirlo, 
+Juan implementó la sugerencia de Pedro en el código de la aplicación. En otra 
+reunión, Laura identificó un problema en la sección de pagos y trabajó con Juan 
+para resolver el problema.
+
+Gracias a la colaboración y la comunicación efectiva entre los miembros del 
+equipo, lograron superar los desafíos y desarrollar una aplicación de alta calidad 
+en el plazo establecido. La presentación final del proyecto fue un éxito rotundo, y 
+el equipo recibió elogios de sus profesores y compañeros por su trabajo 
+colaborativo y la calidad del producto final.
+
+La experiencia de Juan y su equipo en el trabajo colaborativo les permitió aplicar 
+sus habilidades y conocimientos de manera efectiva, superar obstáculos y lograr 
+resultados óptimos. El trabajo colaborativo no solo mejoró la calidad del proyecto 
+final, sino que también ayudó a los estudiantes a desarrollar habilidades valiosas 
+para su futuro en la industria de la informática.
+
+En mi caso espero aplicar todos los aspectos del trabajo colaborativo en mi 
+proceso de formación que actualmente curso en el SENA, estoy muy motivado y 
+espero compartir con otros aprendices y asi dar lo mejor para poder culminar 
+con éxito 
